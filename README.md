@@ -6,7 +6,9 @@ ___
 ### [Z80SBCRC](https://github.com/Plasmode/Z80SBCRC)
 Circa 2018.  ROM-less, battery-backed Z80 SBC.  Discussion in [retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=350)
 
+<!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
 ___
 ### [ZZ80RC](https://github.com/Plasmode/ZZ80RC)
 ___
