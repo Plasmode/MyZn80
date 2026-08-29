@@ -8,11 +8,9 @@ Circa 2018.  A CP/M-ready, Z280-based SBC for RC2014 bus.  Discussed in [retrobr
 
 ___
 ### [Z80SBCRC](https://github.com/Plasmode/Z80SBCRC)
-Circa 2018.  ROM-less, battery-backed Z80 SBC.  Discussion in [Google retro-comp](https://groups.google.com/g/rc2014-z80/c/m8rivBf4epg)
+Circa 2018.  ROM-less, battery-backed 20MHz Z80 SBC for RC2014 bus.  Discussion in [Google retro-comp](https://groups.google.com/g/rc2014-z80/c/m8rivBf4epg)
 
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+<img src="https://github.com/Plasmode/Z80SBCRC/blob/master/Z80SBCRC_Rev0/Z80SBCRC_Rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### Z80SBC64
