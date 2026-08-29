@@ -21,43 +21,43 @@ ___
 ___
 ### RIZ180
 ___
-ZRC
+### ZRC
 ___
-RoRCC
+### ZoRC
 ___
-3VZ80
+### 3VZ80
 ___
-3VZ180
+### 3VZ180
 ___
-Zuno
+### Zuno
 ___
-MicroZ
+### MicroZ
 ___
-Micro80
+### Micro80
 ___
-K80
+### K80
 ___
-BB6580
+### BB6580
 ___
-Simple80
+### Simple80
 ___
-ZRCC
+### ZRCC
 ___
-ZZ80MB
+### ZZ80MB
 ___
-Z80LCD
+### Z80LCD
 ___
-Z80SBC64
+### Z80SBC64
 ___
-Z80MB64
+### Z80MB64
 ___
-GRC-Z80
+### GRC-Z80
 ___
-G8PP-Z80
+### G8PP-Z80
 ___
-TinyZ280
+### TinyZ280
 ___
-CPLD_Trainer-Z80
+### CPLD_Trainer-Z80
 ___
-Z80retro
+### Z80retro
 ___
