@@ -2,9 +2,9 @@
 Index of my Z80, Z180, Z280 designs in GitHub.  Designs are listed chronologically with links to respective repositories
 ___
 ### [Z280RC](https://github.com/Plasmode/Z280RC)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+Circa 2018.  A CP/M-ready, Z280-based SBC for RC2014 bus.  Discussed in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=93&goto=4764&#msg_4764)
+
+<img src="https://github.com/Plasmode/Z280RC/blob/master/z280RC_feature_pic.jpeg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [Z80SBCRC](https://github.com/Plasmode/Z80SBCRC)
