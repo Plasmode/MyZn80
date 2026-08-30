@@ -33,9 +33,11 @@ Circa 2019.  A Z280 SBC with Compact Flash interface in Z80-Compatible Mode for 
 
 ___
 ### [Eazy80](https://github.com/Plasmode/Eazy80)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+Circa 2019.  A glue-less Z80 SBC capable of running CP/M.  It can also run RomWBW with an addition of a Quad OR gates.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=777), also discussed in [Google retro-comp](https://groups.google.com/g/retro-comp/c/0cUDbZspHyQ)
+.
+
+<img src="https://github.com/Plasmode/Eazy80/blob/main/Rev2/Eazy80r2-512.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
 
 ___
 ### Z80all
