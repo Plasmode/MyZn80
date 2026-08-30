@@ -21,15 +21,15 @@ Circa 2018.  ROM-less, battery-backed Z80 SBC.  Discussion in [retrobrew compute
 
 ___
 ### [ZZ80RC](https://github.com/Plasmode/ZZ80RC)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+Circa 2018.  A Z280 Single-board Computer in Z80-Compatible Mode for RC2014 bus.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=309)
+
+<img src="https://github.com/Plasmode/ZZ80RC/blob/master/DSC_37980918.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [ZZ80CF](https://github.com/Plasmode/ZZ80CF)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+Circa 2019.  A Z280 SBC with Compact Flash interface in Z80-Compatible Mode for RC2014 bus.  Discussion in [Google retro-comp](https://groups.google.com/g/retro-comp/c/leXJkqAGT40/m/k_mcISqADAAJ)
+
+<img src="https://github.com/Plasmode/ZZ80CF/blob/master/ZZ80CF_ROM-less_Z80SBC.jpeg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [Eazy80](https://github.com/Plasmode/Eazy80)
