@@ -76,10 +76,10 @@ ___
 -->
 
 ___
-### ZoRC
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [ZoRC](https://github.com/Plasmode/ZoRC)
+Circa 2020.  A minimum hand-wired Z80 computer derived from ZRCC where the design is further simplified by eliminate the compact flash disk and upgrade the RAM to 512K so the CP/M file system can be stored in RAMdisk. discussion in [google retro-comp](https://groups.google.com/g/retro-comp/c/4knnVMlhCxg) group.
+
+<img src="https://github.com/Plasmode/ZoRC/blob/main/ZoRC_prototype_sideview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### 3VZ80
