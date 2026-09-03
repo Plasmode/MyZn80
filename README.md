@@ -44,7 +44,7 @@ ___
 Circa 2020.  A standalone CP/M Z80 SBC with VGA video and PS2 keyboard.  Discussion in [retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=512),  More discussion in [Google retro-comp](https://groups.google.com/g/retro-comp/c/gn0yoQfuKGg)
 
 <img src="https://github.com/Plasmode/Z80ALL/blob/main/Z80ALL_rev1_rev2/z80all_rev1_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
-
+<img src="https://github.com/Plasmode/Z80ALL/blob/main/Z80ALL_KIORC_or_QuadSer/Z80all_with_KIORC_or_QuadSer.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 ___
 ### ZRC512
 <!--
