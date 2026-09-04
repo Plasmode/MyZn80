@@ -70,10 +70,10 @@ ___
 -->
 
 ___
-### ZRC
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [ZRC](https://github.com/Plasmode/ZRC)
+Circa 2020.  Z80 RC2014-compatible SBC with DRAM memory in 50mmX100mm PC board.  Discussed in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=507)
+
+<img src="https://github.com/Plasmode/ZRC/blob/main/Rev2/ZRC_rev2_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [ZoRC](https://github.com/Plasmode/ZoRC)
