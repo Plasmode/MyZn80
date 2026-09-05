@@ -79,7 +79,7 @@ ___
 ### ZRCC
 Circa 2020.  An inexpensive RC2014-compatible, CP/M-ready SBC.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=463).
 
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+<img src="https://github.com/Plasmode/ZRCC/blob/main/rev1.0_rev1.1/ZRCC_rev1_0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### ZRC512
