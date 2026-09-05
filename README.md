@@ -76,7 +76,7 @@ Circa 2020.  A minimum hand-wired Z80 computer derived from ZRCC where the desig
 <img src="https://github.com/Plasmode/ZoRC/blob/main/ZoRC_prototype_sideview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### ZRCC
+### [ZRCC](https://github.com/Plasmode/ZRCC)
 Circa 2020.  An inexpensive RC2014-compatible, CP/M-ready SBC.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=463).
 
 <img src="https://github.com/Plasmode/ZRCC/blob/main/rev1.0_rev1.1/ZRCC_rev1_0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
