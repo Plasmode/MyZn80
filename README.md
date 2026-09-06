@@ -32,6 +32,12 @@ Circa 2019.  A Z280 SBC with Compact Flash interface in Z80-Compatible Mode for 
 <img src="https://github.com/Plasmode/ZZ80CF/blob/master/ZZ80CF_ROM-less_Z80SBC.jpeg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### [Simple80](https://github.com/Plasmode/Simple80)
+Circa 2019.  Simple Z80 SBC without glue logic.  Discussed in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=393).
+
+<img src="https://github.com/Plasmode/Simple80/blob/main/Rev0/Simple80_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [Eazy80](https://github.com/Plasmode/Eazy80)
 Circa 2019.  A glue-less Z80 SBC capable of running CP/M.  It can also run RomWBW with an addition of a Quad OR gates.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=777), also discussed in [Google retro-comp](https://groups.google.com/g/retro-comp/c/0cUDbZspHyQ)
 .
@@ -130,12 +136,6 @@ ___
 -->
 
 ___
-### Simple80
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
 ### ZZ80MB
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
@@ -148,7 +148,6 @@ ___
 -->
 
 ___
-
 ### Z80MB64
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
