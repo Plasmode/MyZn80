@@ -100,12 +100,6 @@ ___
 -->
 
 ___
-### [3VZ80](https://github.com/Plasmode/3VZ80)
-Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 Dev board to form a CP/M capable computer.  Discussed in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=810)
-
-<img src="https://github.com/Plasmode/3VZ80/blob/main/Rev1/3vz80_rev1_mezzanine_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
-
-___
 ### Zuno
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
@@ -134,6 +128,12 @@ ___
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
+
+___
+### [3VZ80](https://github.com/Plasmode/3VZ80)
+Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 Dev board to form a CP/M capable computer.  Discussed in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=810)
+
+<img src="https://github.com/Plasmode/3VZ80/blob/main/Rev1/3vz80_rev1_mezzanine_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### ZZ80MB
