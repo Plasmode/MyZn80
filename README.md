@@ -44,6 +44,12 @@ Circa 2019.  A glue-less Z80 SBC capable of running CP/M.  It can also run RomWB
 
 <img src="https://github.com/Plasmode/Eazy80/blob/main/Rev2/Eazy80r2-512.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
+___
+### [K80](https://github.com/Plasmode/K80)
+Circa 2019.  K80 is a basic Z80/ROM/RAM SBC but with KIO (Z84C90) for I/O. K80 is CP/M ready, K80W is RomWBW capable.  Discussion in [Google forum retro-comp](https://groups.google.com/g/retro-comp/c/rFNqRrUsye8/)
+<!--
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
 
 ___
 ### [Z80all](https://github.com/Plasmode/Z80ALL)
@@ -113,12 +119,6 @@ ___
 
 ___
 ### Micro80
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
-### K80
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
