@@ -7,11 +7,10 @@ Circa 2018.  ROM-less, battery-backed 20MHz Z80 SBC for RC2014 bus.  Discussion 
 <img src="https://github.com/Plasmode/Z80SBCRC/blob/master/Z80SBCRC_Rev0/Z80SBCRC_Rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### Z80SBC64
+### [Z80SBC64](https://github.com/Plasmode/Z80SBC64)
 Circa 2018.  ROM-less, battery-backed Z80 SBC.  Discussion in [retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=350)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+
+<img src="https://github.com/Plasmode/Z80SBC64/blob/main/Z80SBC64_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [Z280RC](https://github.com/Plasmode/Z280RC)
