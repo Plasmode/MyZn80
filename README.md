@@ -50,6 +50,13 @@ Circa 2019.  K80 is a basic Z80/ROM/RAM SBC but with KIO (Z84C90) for I/O. K80 i
 <img src="https://github.com/Plasmode/K80/blob/main/K80W_Rev2/k80W_rev2_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### Zuno
+Circa 2019.  Zuno is [Z80SBC64](https://github.com/Plasmode/Z80SBC64) Z80SBC in Arduino Mega2560 enclosure.  Discussed in [Retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=417)
+
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
+
+___
 ### [Z80all](https://github.com/Plasmode/Z80ALL)
 Circa 2020.  A standalone CP/M Z80 SBC with VGA video and PS2 keyboard.  Discussion in [retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=512),  More discussion in [Google retro-comp](https://groups.google.com/g/retro-comp/c/gn0yoQfuKGg)
 
@@ -99,12 +106,6 @@ ___
 
 ___
 ### [3VZ180]
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
-### Zuno
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
