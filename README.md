@@ -62,16 +62,16 @@ Circa 2019.  Zuno is [Z80SBC64](https://github.com/Plasmode/Z80SBC64) Z80SBC in 
 <img src="https://github.com/Plasmode/Zuno/blob/main/zuno_r03_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### [MicroZ](https://github.com/Plasmode/MicroZ)
-Circa 2019.  A full-feature Z80 CP/M-capable SBC based on Z84C15 controller that fitted in the Arduino Mega2560 enclosure.  Discussed in [Google Retro-comp forum](https://groups.google.com/g/retro-comp/c/CyArzzQZQpY)
-
-<img src="https://github.com/Plasmode/MicroZ/blob/main/MicroZ_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
-
-___
 ### Micro80
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
+
+___
+### [MicroZ](https://github.com/Plasmode/MicroZ)
+Circa 2019.  A full-feature Z80 CP/M-capable SBC based on Z84C15 controller that fitted in the Arduino Mega2560 enclosure.  Discussed in [Google Retro-comp forum](https://groups.google.com/g/retro-comp/c/CyArzzQZQpY)
+
+<img src="https://github.com/Plasmode/MicroZ/blob/main/MicroZ_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [Z80all](https://github.com/Plasmode/Z80ALL)
