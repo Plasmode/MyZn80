@@ -13,6 +13,12 @@ Circa 2018.  ROM-less, battery-backed Z80 SBC.  Discussion in [retrobrew compute
 <img src="https://github.com/Plasmode/Z80SBC64/blob/main/Z80SBC64_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### [Z80MB64](https://github.com/Plasmode/Z80MB64/tree/main)
+Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. All the software that runs on Z80SBC64 will also run on Z80MB64.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=350&goto=5910&#msg_5910)
+
+<img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [Z280RC](https://github.com/Plasmode/Z280RC)
 Circa 2018.  A CP/M-ready, Z280-based SBC for RC2014 bus.  Discussed in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=93&goto=4764&#msg_4764)
 
@@ -141,12 +147,6 @@ ___
 
 ___
 ### Z80LCD
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
-### Z80MB64
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
