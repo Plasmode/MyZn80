@@ -116,10 +116,11 @@ Circa 2020.  An inexpensive RC2014-compatible, CP/M-ready SBC.  Discussion in [R
 <img src="https://github.com/Plasmode/ZRCC/blob/main/rev1.0_rev1.1/zrcc_rev1_1_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### ZRC512
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [ZRC512](https://github.com/Plasmode/ZRC512)
+Circa 2023.  ZRC512 is a single-board Z80 computer designed specifically for ROM-less RomWBW. It has few components all in easy-to-build through-hole technology.  Discussion in [Retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=773)
+
+<img src="https://github.com/Plasmode/ZRC512/blob/main/zrc512_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
 
 ___
 ### [3VZ180]
