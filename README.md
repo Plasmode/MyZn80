@@ -62,7 +62,7 @@ Circa 2019.  Zuno is [Z80SBC64](https://github.com/Plasmode/Z80SBC64) Z80SBC in 
 <img src="https://github.com/Plasmode/Zuno/blob/main/zuno_r03_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### Micro80
+### [Micro80](https://github.com/Plasmode/Micro80)
 Circa 2019.  Micro80 is a classical microprocessor design using the Z84C1516 Intelligent Peripheral Controller.  Discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/9d9695-l0Sk)
 
 <img src="https://github.com/Plasmode/Micro80/blob/main/Rev0/Micro80_rev0_sideview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
