@@ -135,11 +135,10 @@ ___
 -->
 
 ___
-### BB6580
-Circa 2024.  BB6580 is bare bone Z80 and 6502 in one pc board.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=791), another discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/QWPGzS1glTQ)
+### [BB6580](https://github.com/Plasmode/BB6580)
+Circa 2024.  BB6580 is bare bone Z80 and 6502 computers in one pc board.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=791), another discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/QWPGzS1glTQ)
 
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+<img src="https://github.com/Plasmode/BB6580/blob/main/Rev0/bb6580_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [3VZ80](https://github.com/Plasmode/3VZ80)
