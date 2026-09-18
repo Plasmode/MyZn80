@@ -116,6 +116,13 @@ Circa 2020.  An inexpensive RC2014-compatible, CP/M-ready SBC.  Discussion in [R
 <img src="https://github.com/Plasmode/ZRCC/blob/main/rev1.0_rev1.1/zrcc_rev1_1_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### Z80LCD
+Circa 2020.  Z80LCD is a Z80 Controller for UG32F01, 320x240 LCD Display Panel.  Discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/OQJOJs1Hd1Y)
+
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
+
+___
 ### [ZRC512](https://github.com/Plasmode/ZRC512)
 Circa 2023.  ZRC512 is a single-board Z80 computer designed specifically for ROM-less RomWBW. It has few components all in easy-to-build through-hole technology.  Discussion in [Retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=773)
 
@@ -142,12 +149,6 @@ Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 D
 
 ___
 ### ZZ80MB
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
-### Z80LCD
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
