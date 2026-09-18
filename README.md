@@ -136,7 +136,8 @@ ___
 
 ___
 ### BB6580
-<!--
+Circa 2024.  BB6580 is bare bone Z80 and 6502 in one pc board.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=791), another discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/QWPGzS1glTQ)
+
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
 
