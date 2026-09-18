@@ -116,11 +116,10 @@ Circa 2020.  An inexpensive RC2014-compatible, CP/M-ready SBC.  Discussion in [R
 <img src="https://github.com/Plasmode/ZRCC/blob/main/rev1.0_rev1.1/zrcc_rev1_1_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### Z80LCD
+### [Z80LCD](https://github.com/Plasmode/Z80LCD)
 Circa 2020.  Z80LCD is a Z80 Controller for UG32F01, 320x240 LCD Display Panel.  Discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/OQJOJs1Hd1Y)
 
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+<img src="https://github.com/Plasmode/Z80LCD/blob/main/Z80LCD_UG32F01.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [ZRC512](https://github.com/Plasmode/ZRC512)
