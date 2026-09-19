@@ -86,10 +86,10 @@ ___
 -->
 
 ___
-### ZZRCC
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [ZZRCC](https://github.com/Plasmode/ZZRCC)
+Circa 2020.  ZZRCC (Z280, RAM, CPLD, and CF disk) is the replacement for ZZ80CF.  It fixed the asynchronous baud clock that intermittently inject an extra character in serial output.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=538).  Additional discussion in [Google retro-comp forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=538)
+
+<img src="https://github.com/Plasmode/ZZRCC/blob/main/ZZRCC_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### RIZ180
