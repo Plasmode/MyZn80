@@ -37,6 +37,12 @@ Circa 2019.  A Z280 SBC with Compact Flash interface in Z80-Compatible Mode for 
 <img src="https://github.com/Plasmode/ZZ80CF/blob/master/ZZ80CF_ROM-less_Z80SBC.jpeg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### [ZZ80MB](https://github.com/Plasmode/ZZ80MB)
+Circa 2019.  ZZ80MB is a Z280 SBC that can be built by beginner and does not require an EPROM programmer. In fact, it can serve as an EPROM programmer for other projects.  Discussion in [Retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=403).  Additional discussion in [Google retro-comp](https://groups.google.com/g/retro-comp/c/5sJDPVfEZgI)
+
+<img src="https://github.com/Plasmode/ZZ80MB/blob/main/Rev3/ZZ80MB_rev3_sideview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [Simple80](https://github.com/Plasmode/Simple80)
 Circa 2019.  Simple Z80 SBC without glue logic.  Discussed in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=393).
 
@@ -147,12 +153,6 @@ Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 D
 <img src="https://github.com/Plasmode/3VZ80/blob/main/Rev1/3vz80_rev1_mezzanine_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### ZZ80MB
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
 ### GRC-Z80
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
@@ -177,9 +177,4 @@ ___
 -->
 
 ___
-### Z80retro
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
 
-___
