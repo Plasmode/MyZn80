@@ -19,10 +19,10 @@ Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. Al
 <img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### TinyZ280
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [TinyZ280](https://github.com/Plasmode/TinyZ280)
+Circa 2018.  An experimental Z280 SBC design with different bootstrapping methods and different memories, aka TinyZZ.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=255)
+
+<img src="https://github.com/Plasmode/TinyZ280/blob/main/TinyZ280_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [Z280RC](https://github.com/Plasmode/Z280RC)
