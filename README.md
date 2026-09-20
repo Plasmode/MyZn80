@@ -19,6 +19,12 @@ Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. Al
 <img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### TinyZ280
+<!--
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
+
+___
 ### [Z280RC](https://github.com/Plasmode/Z280RC)
 Circa 2018.  A CP/M-ready, Z280-based SBC for RC2014 bus.  Discussed in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=93&goto=4764&#msg_4764)
 
@@ -160,12 +166,6 @@ ___
 
 ___
 ### G8PP-Z80
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
-### TinyZ280
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
