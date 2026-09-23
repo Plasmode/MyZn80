@@ -134,11 +134,10 @@ Circa 2023.  ZRC512 is a single-board Z80 computer designed specifically for ROM
 <img src="https://github.com/Plasmode/ZRC512/blob/main/zrc512_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### Z1RCC
+### [Z1RCC](https://github.com/Plasmode/Z1RCC)
 Circa 2023.  a RC2014-compatible, RomWBW-capable Z180 SBC.  The motivation came from a new RomWBW feature that accommodates ROM-less Z80/Z180/Z280 computer with 512K of RAM.  Discussion in [Google retro-comp forum](https://groups.google.com/g/retro-comp/c/29DOV4eO6MU).  Additional discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=770)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+
+<img src="https://github.com/Plasmode/Z1RCC/blob/main/Rev0/z1rcc_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [3VZ180]
