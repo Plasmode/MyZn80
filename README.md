@@ -98,10 +98,10 @@ Circa 2020.  ZZRCC (Z280, RAM, CPLD, and CF disk) is the replacement for ZZ80CF.
 <img src="https://github.com/Plasmode/ZZRCC/blob/main/Projects/zzrcc_rev0_i2c_annotatated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### RIZ180
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [RIZ180](https://github.com/Plasmode/RIZ180)
+Circa 2020.  A RC2014-compatible Z180 SBC with through-hole components and no CPLD.  Named after the person who gave me six Z8018008PSC and a request to build a cheap, easy-to-build Z180 SBC.  Discussion in [retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=539).  More discussion in [Google retro-comp](https://groups.google.com/g/retro-comp/c/KrVDpV66gw4)forum.
+
+<img src="https://github.com/Plasmode/RIZ180/blob/main/Rev1/riz180_rev1_cf_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [ZRC](https://github.com/Plasmode/ZRC)
