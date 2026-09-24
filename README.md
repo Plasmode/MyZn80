@@ -140,10 +140,10 @@ Circa 2023.  a RC2014-compatible, RomWBW-capable Z180 SBC.  The motivation came 
 <img src="https://github.com/Plasmode/Z1RCC/blob/main/Rev0/z1rcc_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### [3VZ180]
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [3VZ180](https://github.com/Plasmode/3VZ180)
+Circa 2024.  A mezzanine board based on Z8S180 processor and 512K RAM for EPM240 dev board. It supports RomWBW for Z180.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=810&goto=10835&#msg_10835)
+
+<img src="https://github.com/Plasmode/3VZ180/blob/main/3VZ180_rev0_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [BB6580](https://github.com/Plasmode/BB6580)
