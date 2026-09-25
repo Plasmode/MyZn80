@@ -134,6 +134,12 @@ Circa 2022.  Generic Retro Computer (GRC) is a modular system for 8-bit (and som
 <img src="https://github.com/Plasmode/GRC-Z80/blob/main/grc_z80_3_22_22.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### [CPLD_Trainer-Z80](https://github.com/Plasmode/CPLD-Trainer/tree/main/Rev1Z80-trainer)
+Circa 2022.  A CPLD trainer based on Altera EPM7128SLC84.  It includes RAM, Flash and accommodates three 8-bit 40-pin DIP processors.  This is CPLD trainer with Z80 processor.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=700)
+
+<img src="https://github.com/Plasmode/CPLD-Trainer/blob/main/Rev1Z80-trainer/CPLDRev1_trainerwithz80.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [ZRC512](https://github.com/Plasmode/ZRC512)
 Circa 2023.  ZRC512 is a single-board Z80 computer designed specifically for ROM-less RomWBW. It has few components all in easy-to-build through-hole technology.  Discussion in [Retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=773)
 
@@ -165,12 +171,6 @@ Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 D
 
 ___
 ### G8PP-Z80
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
-### CPLD_Trainer-Z80
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
