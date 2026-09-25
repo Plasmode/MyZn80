@@ -128,10 +128,10 @@ Circa 2020.  Z80LCD is a Z80 Controller for UG32F01, 320x240 LCD Display Panel. 
 <img src="https://github.com/Plasmode/Z80LCD/blob/main/Z80LCD_UG32F01.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### GRC-Z80
+### [GRC-Z80](https://github.com/Plasmode/GRC-Z80)
 Circa 2022.  Generic Retro Computer (GRC) is a modular system for 8-bit (and some 16-bit) processors of 1970's and 1980's. The processor shares the same hardware resources of CPLD, RAM, CF disk, and I/O.  GRC-Z80 is a GRC based on Z80 processor .Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=703)
 
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+<img src="https://github.com/Plasmode/GRC-Z80/blob/main/grc_z80_3_22_22.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [ZRC512](https://github.com/Plasmode/ZRC512)
