@@ -128,6 +128,12 @@ Circa 2020.  Z80LCD is a Z80 Controller for UG32F01, 320x240 LCD Display Panel. 
 <img src="https://github.com/Plasmode/Z80LCD/blob/main/Z80LCD_UG32F01.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### GRC-Z80
+Circa 2022.  Generic Retro Computer (GRC) is a modular system for 8-bit (and some 16-bit) processors of 1970's and 1980's. The processor shares the same hardware resources of CPLD, RAM, CF disk, and I/O.  GRC-Z80 is a GRC based on Z80 processor .Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=703)
+
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
 ### [ZRC512](https://github.com/Plasmode/ZRC512)
 Circa 2023.  ZRC512 is a single-board Z80 computer designed specifically for ROM-less RomWBW. It has few components all in easy-to-build through-hole technology.  Discussion in [Retrobrew computer forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=773)
 
@@ -156,12 +162,6 @@ ___
 Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 Dev board to form a CP/M capable computer.  Discussed in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=810)
 
 <img src="https://github.com/Plasmode/3VZ80/blob/main/Rev1/3vz80_rev1_mezzanine_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
-
-___
-### GRC-Z80
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
 
 ___
 ### G8PP-Z80
