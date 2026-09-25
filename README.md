@@ -19,6 +19,13 @@ Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. Al
 <img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
+### G8PP-Z80
+Circa 2018.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=348)
+<!--
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
+
+___
 ### [TinyZ280](https://github.com/Plasmode/TinyZ280)
 Circa 2018.  An experimental Z280 SBC design with different bootstrapping methods and different memories, aka TinyZZ.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=255)
 
@@ -170,10 +177,15 @@ Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 D
 <img src="https://github.com/Plasmode/3VZ80/blob/main/Rev1/3vz80_rev1_mezzanine_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### G8PP-Z80
+### Ztoid
 <!--
 <img src="" alt="Responsive Image" style="width:30%; height:auto;">
 -->
 
 ___
+### Ktoid
+<!--
+<img src="" alt="Responsive Image" style="width:30%; height:auto;">
+-->
 
+___
