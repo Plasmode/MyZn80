@@ -19,11 +19,12 @@ Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. Al
 <img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### G8PP-Z80
-Circa 2018.  Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=348)
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
+### [G8PP-Z80](https://github.com/Plasmode/G8PP-Z80)
+Circa 2018.  G8PP is a prototype board for 8-bit processors. The target processors are Z80, 8085, 680x, 6502, as well as 16-bit processors with 8-bit bus. G8PP is a RC2014 bus compatible module to take advantage of various I/O modules of the RC2014 family.
+
+Discussion in [retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=348)
+
+<img src="https://github.com/Plasmode/G8PP-Z80/blob/main/G8PP-Z80__prototype_sideview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [TinyZ280](https://github.com/Plasmode/TinyZ280)
