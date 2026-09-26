@@ -13,12 +13,6 @@ Circa 2018.  ROM-less, battery-backed Z80 SBC.  Discussion in [retrobrew compute
 <img src="https://github.com/Plasmode/Z80SBC64/blob/main/Z80SBC64_topview_annotated.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### [Z80MB64](https://github.com/Plasmode/Z80MB64/tree/main)
-Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. All the software that runs on [Z80SBC64](https://github.com/Plasmode/Z80SBC64) will also run on Z80MB64.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=350&goto=5910&#msg_5910)
-
-<img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
-
-___
 ### [G8PP-Z80](https://github.com/Plasmode/G8PP-Z80)
 Circa 2018.  G8PP is a prototype board for 8-bit processors. The target processors are Z80, 8085, 680x, 6502, as well as 16-bit processors with 8-bit bus. G8PP is a RC2014 bus compatible module to take advantage of various I/O modules of the RC2014 family.
 
@@ -43,6 +37,12 @@ ___
 Circa 2018.  A Z280 Single-board Computer in Z80-Compatible Mode for RC2014 bus.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=309)
 
 <img src="https://github.com/Plasmode/ZZ80RC/blob/master/DSC_37980918.jpg" alt="Responsive Image" style="width:30%; height:auto;">
+
+___
+### [Z80MB64](https://github.com/Plasmode/Z80MB64/tree/main)
+Circa 2019.  Z80MB64 is based on Z80SBC64 with 3 RC2014 expansion connectors. All the software that runs on [Z80SBC64](https://github.com/Plasmode/Z80SBC64) will also run on Z80MB64.  Discussion in [Retrobrew computers forum](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=350&goto=5910&#msg_5910)
+
+<img src="https://github.com/Plasmode/Z80MB64/blob/main/Z80MB64_rev0_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
 ### [ZZ80CF](https://github.com/Plasmode/ZZ80CF)
