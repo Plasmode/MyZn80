@@ -178,15 +178,4 @@ Circa 2024.  A Z80 ran at 3.3V on a mezzanine board that plugged into a EPM240 D
 <img src="https://github.com/Plasmode/3VZ80/blob/main/Rev1/3vz80_rev1_mezzanine_annotated_topview.jpg" alt="Responsive Image" style="width:30%; height:auto;">
 
 ___
-### Ztoid
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
 
-___
-### Ktoid
-<!--
-<img src="" alt="Responsive Image" style="width:30%; height:auto;">
--->
-
-___
